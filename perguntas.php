@@ -24,7 +24,7 @@
     $resultado = mysqli_query($conexao, $query);
     ?>
 
-    <div class="p-3 mt-4 mx-auto" style="background-color: #F8F9FA; width: 75%; border-radius: 10px;">
+    <div class="p-3 mt-4 mb-4 mx-auto" style="background-color: #F8F9FA; width: 75%; border-radius: 10px;">
         <div class="mx-auto mt-3" style="width: 75%">
             <h3>Gerador de Prova</h3>
         </div>

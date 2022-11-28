@@ -64,7 +64,7 @@ if ($tamanho < 5) {
     ?>
 
     <body style="background-color: #d3d3d3;">
-        <div class="p-3 mt-4 mx-auto pb-5" style="background-color: #F8F9FA; width: 75%; border-radius: 10px;">
+        <div class="p-3 mb-4 mt-4 mx-auto pb-5" style="background-color: #F8F9FA; width: 75%; border-radius: 10px;">
             <div class="mx-auto mt-3" style="width: 75%">
                 <h5> <?php echo $pergunta; ?> </h5>
             </div>
