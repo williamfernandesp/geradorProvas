@@ -161,7 +161,7 @@ if ($tamanho < 5) {
                 </div>
                 <br>
                 <br>
-                <p>Para editar a pergunta por favor excluir e cadastrar novamente.</p>
+                <p>Para editar a pergunta ou as alternativas exclua e a cadastre novamente.</p>
                 <a href="./perguntaDelete.php?id=<?php echo $pergunta_id; ?>" class="btn btn-danger">Excluir</a>
             </form>
         </div>
